@@ -1,0 +1,11 @@
+{
+  "name": "cannamei",
+  "version": "1.0.0",
+  "description": "Cannamei Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason W",
+  "license": "MIT"
+}
